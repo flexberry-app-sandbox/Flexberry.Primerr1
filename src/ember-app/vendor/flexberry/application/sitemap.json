@@ -1,0 +1,36 @@
+﻿{
+  "applicationCaption": "Primerr",
+  "applicationTitle": "Primerr",
+  "items": [
+    {
+      "link": null,
+      "menuName": "primerr",
+      "caption": "Primerr",
+      "title": "Primerr",
+      "children": [
+        {
+          "link": "i-i-s-primerr-animal-l",
+          "menuName": null,
+          "caption": "Animal",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-primerr-forest-l",
+          "menuName": null,
+          "caption": "Forest",
+          "title": "",
+          "children": null
+        },
+        {
+          "link": "i-i-s-primerr-country-l",
+          "menuName": null,
+          "caption": "Country",
+          "title": "",
+          "children": null
+        }
+      ]
+    }
+  ],
+  "mobile": true
+}

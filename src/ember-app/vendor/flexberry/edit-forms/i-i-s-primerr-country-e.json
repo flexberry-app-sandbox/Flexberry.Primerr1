@@ -1,0 +1,14 @@
+﻿{
+  "propertyLookup": [],
+  "external": false,
+  "caption": "Country",
+  "name": "IISPrimerrCountryE",
+  "className": "CountryE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-primerr-country",
+      "modelProjection": "CountryE"
+    }
+  ]
+}

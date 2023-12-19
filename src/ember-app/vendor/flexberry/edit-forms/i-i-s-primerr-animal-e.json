@@ -1,0 +1,23 @@
+﻿{
+  "propertyLookup": [
+    {
+      "master": "forest",
+      "displayAttributeName": "name",
+      "required": false,
+      "relationName": "Burrow.Forest",
+      "projection": "ForestL",
+      "detailModelName": "i-i-s-primerr-burrow"
+    }
+  ],
+  "external": false,
+  "caption": "Animal",
+  "name": "IISPrimerrAnimalE",
+  "className": "AnimalE",
+  "attrs": [],
+  "projections": [
+    {
+      "modelName": "i-i-s-primerr-animal",
+      "modelProjection": "AnimalE"
+    }
+  ]
+}
